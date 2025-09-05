@@ -1,4 +1,4 @@
-# -Lighthouse-Desafio-Ci-ncia-de-Dados-2025-11
+# -Lighthouse-Desafio-Ciencia-de-Dados-2025-11
 Análise de Filmes IMDb
 Este projeto consiste em uma análise exploratória de dados de filmes do IMDb, enriquecida com informações da API do TMDb, e um modelo de machine learning para prever as notas dos filmes.
 
